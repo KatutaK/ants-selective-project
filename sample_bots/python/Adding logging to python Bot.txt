@@ -1,0 +1,12 @@
+Adding logging to python Bot
+step1: 
+import logging
+step2:
+with the logging module imported you can use a logger to log values of interest to you
+you can log at five levels (DEBUG,INFO,WARNING,ERROR,CRITICAL)
+step3:
+call the corresponding method for the log level you need using the default logger
+import logging
+logging.debug('This can be used to debug the Ants framework')
+
+--issues obstacles

@@ -1,0 +1,5 @@
+Steps to problem formulation for the ants food problem:
+
+Step1: Define a clear goal
+    Goal: move an ant from its current location (source) to the nearest food (destination) on the map.
+    Goal: Ant is in current location (source). Ant goal is to move to nearest food (destination)

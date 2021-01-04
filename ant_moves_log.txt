@@ -1,0 +1,514 @@
+Inside ants loop:
+Inside directions loop:
+source: (32, 6) direction: n target: (30, 10) new_ant_loc None
+Inside directions loop:
+source: (32, 6) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (31, 6) direction: e target: (30, 10) new_ant_loc None
+Inside directions loop:
+source: (31, 6) direction: n target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (31, 7) direction: e target: (30, 10) new_ant_loc None
+Inside directions loop:
+source: (31, 7) direction: n target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: w target: (30, 4) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 6) direction: w target: (30, 4) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (32, 6) direction: e target: (30, 10) new_ant_loc None
+Inside directions loop:
+source: (32, 6) direction: n target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (31, 6) direction: n target: (30, 10) new_ant_loc None
+Inside directions loop:
+source: (31, 6) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 6) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (30, 7) direction: e target: (30, 10) new_ant_loc None
+Inside ants loop:
+Inside directions loop:
+source: (29, 5) direction: n target: (26, 5) new_ant_loc None
